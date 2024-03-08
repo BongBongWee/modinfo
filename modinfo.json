@@ -113,7 +113,6 @@
     "group": "Core",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.12/Utilla.zip"
   },
-[
   {
     "name": "bHaptics",
     "author": "Florian Fahrenberger",
@@ -127,15 +126,6 @@
     "author": "Timmy",
     "version": "1.0",
     "git_path": "BongBongWee/PunchMod",
-    "group": "My Mods",
     "download_url": "https://raw.githubusercontent.com/BongBongWee/modinfo/main/PunchMod_1_1.dll"
-  },
-  {
-    "name": "YizziCamModV2",
-    "author": "Yizzy",
-    "version": "1.0.8",
-    "git_path": "BongBongWee/YizziCamModV2",
-    "group": "My Mods",
-    "download_url": "https://raw.githubusercontent.com/BongBongWee/modinfo/main/YizziCamModV2.dll"
   }
 ]
