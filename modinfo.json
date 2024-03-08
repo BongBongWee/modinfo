@@ -120,5 +120,12 @@
     "git_path": "floh-bhaptics/GorillaTag_bhaptics",
     "group": "Gameplay",
     "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/download/v3.0.1/GorillaTag_bhaptics.zip"
+  },
+  {
+    "name": "PunchMod",
+    "author": "Timmy",
+    "version": "1.0",
+    "git_path": "BongBongWee/PunchMod",
+    "download_url": "https://raw.githubusercontent.com/BongBongWee/modinfo/main/PunchMod_1_1.dll"
   }
 ]
