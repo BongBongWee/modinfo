@@ -126,6 +126,7 @@
     "author": "Timmy",
     "version": "1.0",
     "git_path": "BongBongWee/PunchMod",
+    "group": "My Mods",
     "download_url": "https://raw.githubusercontent.com/BongBongWee/modinfo/main/PunchMod_1_1.dll"
   }
 ]
